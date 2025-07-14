@@ -2,7 +2,7 @@
 Hands-on PyTorch examples to learn and demonstrate (multi-)GPU model training and inference.
 
 ## 1. Distributed Data Parallel (DDP) Training with PyTorch
-This notebook provides a concise and practical walkthrough of implementing Distributed Data Parallel (DDP) training using PyTorch. DDP is an efficient way to scale model training across multiple GPUs, offering near-linear speedup and better performance compared to DataParallel.
+The notebook provides a concise and practical walkthrough of implementing Distributed Data Parallel (DDP) training using PyTorch. DDP is an efficient way to scale model training across multiple GPUs, offering near-linear speedup and better performance compared to DataParallel.
 
 ## 2. Mini-GPT with multi-GPU training
 This project demonstrates how to train a character-level GPT model on the Tiny Shakespeare dataset using PyTorch with support for multi-GPU distributed training via DistributedDataParallel (DDP). It is designed as a practical, modular framework for experimenting with distributed deep learning techniques and efficient training setups.
